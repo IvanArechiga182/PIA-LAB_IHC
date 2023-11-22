@@ -4,8 +4,8 @@
 }
 
 #body {
-    background-image: url(../fondo.jpg);
-    background-repeat: no-repeat;
+    background-image: url(../imagenes/e971d23b562108af485d0870e05e1f40.jpg);
+    background-repeat: repeat;
     background-size: auto;
 }
 
@@ -86,4 +86,8 @@
 .carousel-item {
     position: static;
     margin-left: 20%;
+}
+
+h2{
+    color: white;
 }

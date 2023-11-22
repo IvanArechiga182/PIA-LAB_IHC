@@ -3,7 +3,7 @@
     margin: 0;
 }
 
-#body {
+body {
     background-image: url(fondo.jpg);
     background-repeat: no-repeat;
     background-size: auto;
@@ -86,4 +86,8 @@
 .carousel-item {
     position: static;
     margin-left: 20%;
+}
+
+h2{
+    color: #42cbf5;
 }
